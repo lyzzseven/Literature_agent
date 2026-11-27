@@ -1,0 +1,400 @@
+{
+  "topic": "AZ31 镁合金在铝酸盐–钨酸盐电解液中的微弧氧化：脉冲频率和单双极模式",
+  "queries": [],
+  "local_pdfs": [
+    "../../1808.06587v1.pdf"
+  ],
+  "max_pages": 44,
+  "download_open_pdf": false,
+  "model": {
+    "mode": "ollama",
+    "name": "qwen3:4b",
+    "max_regions_per_paper": 24,
+    "timeout_seconds": 180
+  },
+  "pdf_layout": {
+    "sha256": "e7acafc622115f521dd094d23ed7f06a266e0981d590d983550403a577ff0eea",
+    "text_pages": [
+      5,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "tables": [
+      {
+        "page": 29,
+        "label": "Table 1",
+        "caption": "Table 1. Composition of the bipolar coatings formed for 480 s in aluminate-tungstate electrolyte at different frequencies. The EDS results were obtained from a large area on the coating surface.",
+        "columns": [
+          "Frequency",
+          "O",
+          "Mg",
+          "Al",
+          "W",
+          "W/Al"
+        ],
+        "column_edges": [
+          79,
+          146.8,
+          227,
+          307.2,
+          387.3,
+          467.5,
+          544.2
+        ],
+        "row_edges": [
+          160.5,
+          183.25,
+          206.5,
+          229
+        ]
+      },
+      {
+        "page": 30,
+        "label": "Table 2",
+        "caption": "Table 2. Composition of the unipolar coatings formed for 480 s in aluminate-tungstate electrolyte at different frequencies. The EDS results were obtained from a large area on the coating surface.",
+        "columns": [
+          "Frequency",
+          "O",
+          "Mg",
+          "Al",
+          "W",
+          "W/Al"
+        ],
+        "column_edges": [
+          79,
+          147.1,
+          227.3,
+          307.4,
+          387.3,
+          467.4,
+          544.2
+        ],
+        "row_edges": [
+          168,
+          190.9,
+          214,
+          238
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "page": 31,
+        "label": "Fig. 1",
+        "caption": "Figure 1. Cell potential-time responses (absolute values are given to the negative potential) for the PEO of AZ31 magnesium alloy in aluminate-tungstate electrolyte at different frequencies with/without negative pulse (a) bipolar regime; (b) unipolar regime.",
+        "caption_pages": [
+          26
+        ]
+      },
+      {
+        "page": 32,
+        "label": "Fig. 2",
+        "caption": "Figure 2. Current waveforms recorded for the PEO of AZ31 magnesium alloy in aluminate-tungstate electrolyte under bipolar regime at different frequencies: (a) 100 Hz; (b) 1000 Hz; (c) 2000 Hz.",
+        "caption_pages": [
+          26
+        ]
+      },
+      {
+        "page": 33,
+        "label": "Fig. 3",
+        "caption": "Figure 3. Real-time images of discharging sparks recorded at different stages of PEO of AZ31 magnesium alloy under different frequencies: (a) 100 Hz; (b) 2000 Hz. The exposure time of the camera is 0.125 ms and the area depicted is 10 mm×20 mm.",
+        "caption_pages": [
+          26,
+          27
+        ]
+      },
+      {
+        "page": 34,
+        "label": "Fig. 4",
+        "caption": "Figure 4. Sequential real-time images recorded during the PEO of AZ31 magnesium alloy under different frequencies between 300 and 302 s: (a) 100 Hz; (b) 2000 Hz. The exposure time of the camera is 0.125 ms and the area depicted is 10 mm×20 mm.",
+        "caption_pages": [
+          27
+        ]
+      },
+      {
+        "page": 35,
+        "label": "Fig. 5",
+        "caption": "Figure 5. The effect of frequency on the thickness, surface roughness (Rₐ, R𝓏) of the coatings formed for 480 s in aluminate-tungstate electrolyte under bipolar regime.",
+        "caption_pages": [
+          27
+        ]
+      },
+      {
+        "page": 36,
+        "label": "Fig. 6",
+        "caption": "Figure 6. Images for the appearance of coatings formed at 100, 1000 and 2000 Hz respectively under bipolar regime (a-c) and unipolar regime (d-f).",
+        "caption_pages": [
+          27
+        ]
+      },
+      {
+        "page": 37,
+        "label": "Fig. 7",
+        "caption": "Figure 7. The plots of a*, b* and L* values (a-c) in the CIE L*a*b* color coordinate for PEO coatings formed for 480 s under different frequencies with/without the negative pulse. The a* and b* values indicate the location of color in the red-green and yellow-blue color coordinates, respectively. The L* value indicates the lightness of color. The color difference △E*(d) is the color difference between the PEO coatings and the white reference board.",
+        "caption_pages": [
+          27
+        ]
+      },
+      {
+        "page": 38,
+        "label": "Fig. 8",
+        "caption": "Figure 8. The volume of gas evolution as a function of treatment time during PEO of the alloy under bipolar regime at different frequencies.",
+        "caption_pages": [
+          27
+        ]
+      },
+      {
+        "page": 39,
+        "label": "Fig. 9",
+        "caption": "Figure 9. The SEM micrographs of surface and cross section of coatings formed for 180 s in aluminate-tungstate electrolyte by bipolar regime at 100 Hz (a-c) and 2000 Hz (d-f).",
+        "caption_pages": [
+          27
+        ]
+      },
+      {
+        "page": 40,
+        "label": "Fig. 10",
+        "caption": "Figure 10. The SEM micrographs of surface and cross section of coatings formed after 480 s PEO treatment of AZ31 magnesium alloy in aluminate-tungstate electrolyte by bipolar regime at 100 Hz (a, b), 1000 Hz (c, d) and 2000 Hz (e, f).",
+        "caption_pages": [
+          28
+        ]
+      },
+      {
+        "page": 41,
+        "label": "Fig. 11",
+        "caption": "Figure 11. The SEM micrographs of surface and cross section of coatings formed after 480 s PEO treatment of AZ31 magnesium alloy in aluminate-tungstate electrolyte by unipolar regime at 100 Hz (a, b) and 2000 Hz (c, d).",
+        "caption_pages": [
+          28
+        ]
+      },
+      {
+        "page": 42,
+        "label": "Fig. 12",
+        "caption": "Figure 12. Schematic illustration of the coating formation processes at low frequency (a, b) and high frequency (c, d).",
+        "caption_pages": [
+          28
+        ]
+      }
+    ],
+    "text_y_tolerance": 3
+  },
+  "fields": [
+    {
+      "id": "substrate",
+      "label": "基体牌号",
+      "category": "成分",
+      "description": "The rolled magnesium alloy actually used as the substrate in this study. Copy the grade alone.",
+      "aliases": [
+        "used as the substrate"
+      ],
+      "value_pattern": "AZ\\d+[A-Z]?",
+      "pattern": "A rolled (?P<value>AZ\\d+[A-Z]?) magnesium alloy with a thickness of [\\d.]+ mm was used as the substrate of PEO treatment",
+      "use_model": false
+    },
+    {
+      "id": "pulse_frequency",
+      "label": "脉冲频率",
+      "category": "工艺",
+      "description": "Actual PEO pulse frequencies in Hz introduced by the Experimental section. Leave the list as reported if the source gives a list.",
+      "aliases": [
+        "coatings were fabricated at frequencies"
+      ],
+      "units": [
+        "Hz"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?(?:\\s*(?:,|and|to|–|-)\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)*",
+      "pattern": "Coatings were fabricated at frequencies of (?P<value>\\d+(?:, \\d+)* and \\d+) (?P<unit>Hz)",
+      "use_model": false
+    },
+    {
+      "id": "duty_cycle",
+      "label": "占空比",
+      "category": "工艺",
+      "description": "Duty cycle used during constant-current PEO. Return its value and percent sign separately.",
+      "aliases": [
+        "duty cycle being kept"
+      ],
+      "units": [
+        "%"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?",
+      "pattern": "duty cycle being kept at (?P<value>\\d+(?:\\.\\d+)?)(?P<unit>%)",
+      "use_model": false
+    },
+    {
+      "id": "treatment_duration",
+      "label": "PEO 处理时间",
+      "category": "工艺",
+      "description": "Duration explicitly used to form the coating being measured or imaged. Exclude elapsed time on potential or gas curves, camera exposure, and pulse-cycle duration.",
+      "aliases": [
+        "formed under the bipolar regime for",
+        "the coatings are formed for",
+        "bipolar for 180",
+        "micrographs of coatings formed under unipolar regime for"
+      ],
+      "units": [
+        "s",
+        "seconds"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?",
+      "pattern": "(?:formed under the bipolar regime for|the coatings are formed for|bipolar for|micrographs of coatings formed under unipolar regime for) (?P<value>\\d+) (?P<unit>seconds|s)\\b",
+      "use_model": false
+    },
+    {
+      "id": "waveform_current_density",
+      "label": "波形电流密度",
+      "category": "工艺",
+      "description": "Oscilloscope-reported spike or plateau in the current waveform. Include whether it is a spike or plateau and the frequency if verbatim in the quote. Only report area-normalized values.",
+      "aliases": [
+        "the waveform features a high spike"
+      ],
+      "units": [
+        "A/cm2",
+        "A/ cm2"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?"
+    },
+    {
+      "id": "final_positive_potential",
+      "label": "末端正向槽电压",
+      "category": "工艺",
+      "description": "Bipolar final positive cell potential at 480 s. Exclude the initial surge and negative potential; preserve approximate values.",
+      "aliases": [
+        "final potentials of"
+      ],
+      "units": [
+        "V"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?(?:\\s*(?:,|and|to|–|-)\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)*",
+      "pattern": "final potentials of (?P<value>[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?,\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?\\s+and\\s+[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)\\s*(?P<unit>V) at (?P<conditions>\\d+ s) for the frequencies of (?P<sample>\\d+, \\d+ and \\d+ Hz)"
+    },
+    {
+      "id": "coating_thickness",
+      "label": "实测涂层厚度",
+      "category": "结构",
+      "description": "Eddy-current measured coating thickness, including the reported ± term. Keep frequency and 480 s bipolar context when the quote supports them. Exclude substrate thickness and pore length.",
+      "aliases": [
+        "coating thickness was determined by eddy",
+        "coating thickness decreased along"
+      ],
+      "units": [
+        "μm",
+        "µm"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?",
+      "pattern": "(?=[^;]{0,140}?\\b(?P<sample>\\d+ Hz))(?:coating fabricated at \\d+ Hz is the thickest, reaching up to an average value of|Coating thickness decreased along with decrement of frequency, being) (?P<value>\\d+(?:\\.\\d+)?\\s*±\\s*\\d+(?:\\.\\d+)?) (?P<unit>[μµ]m)(?: at \\d+ Hz)?",
+      "use_model": false
+    },
+    {
+      "id": "color_a_star",
+      "label": "色度 a*",
+      "category": "性能",
+      "description": "Measured CIE a* values for actual bipolar coatings. Preserve signed values and reported ± terms. Exclude the whiteboard reading.",
+      "aliases": [
+        "values of a*, being"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?(?:\\s*(?:,|and|to|–|-)\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)*",
+      "units": [
+        ""
+      ],
+      "pattern": "values of a\\*, being (?P<value>[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?,\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?\\s+and\\s+[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?) for samples fabricated by (?P<conditions>bipolar regime) at (?P<sample>\\d+, \\d+ and \\d+ Hz) respectively"
+    },
+    {
+      "id": "color_lightness",
+      "label": "明度 L*",
+      "category": "性能",
+      "description": "Measured CIE L* of the actual coatings only. Keep the printed ± term. Exclude the whiteboard reference and other color coordinates.",
+      "aliases": [
+        "lightness of the coatings",
+        "brightness of coatings by unipolar"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?(?:\\s*(?:,|and|to|–|-)\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)*",
+      "units": [
+        ""
+      ],
+      "pattern": "values of L\\*, being (?P<value>[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?,\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?\\s+and\\s+[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?) for three samples obtained at (?P<conditions>bipolar regime) respectively"
+    },
+    {
+      "id": "color_difference",
+      "label": "色差 ΔE*",
+      "category": "性能",
+      "description": "Numerical CIE color difference between treated coatings and the whiteboard. Exclude L*, a*, b* values and qualitative claims.",
+      "aliases": [
+        "values of △E* increased"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?(?:\\s*(?:,|and|to|–|-)\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)*",
+      "units": [
+        ""
+      ],
+      "pattern": "values of △E\\* increased with increment of frequency, being (?P<value>[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?,\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?\\s+and\\s+[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?) for three frequencies (?P<conditions>with negative pulse) respectively"
+    },
+    {
+      "id": "gas_volume",
+      "label": "析出气体体积",
+      "category": "性能",
+      "description": "Numerical bipolar gas volume after 480 seconds, retaining the measured ± term. The paper reports the three frequencies in ascending order.",
+      "aliases": [
+        "volume of gas evolved at higher frequency"
+      ],
+      "units": [
+        "cm3"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?(?:\\s*(?:,|and|to|–|-)\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)*",
+      "pattern": "being (?P<value>[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?,\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?\\s+and\\s+[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?) (?P<unit>cm3) for (?P<sample>\\d+, \\d+ and \\d+ Hz) after treated for (?P<conditions>\\d+ seconds) respectively"
+    },
+    {
+      "id": "w_al_atomic_ratio",
+      "label": "涂层 W/Al 原子比",
+      "category": "成分",
+      "description": "Atomic W/Al ratio of the coating. In the W/Al table column report only the value in parentheses (atomic ratio), never the value before parentheses (mass ratio) or elemental at%. In prose report only the explicitly named atomic ratio.",
+      "aliases": [
+        "atomic ratio of W to Al",
+        "W/Al"
+      ],
+      "value_pattern": "[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?(?:\\s*(?:,|and|to|–|-)\\s*[~≈]?\\s*[-−+]?\\d+(?:\\.\\d+)?(?:\\s*±\\s*\\d+(?:\\.\\d+)?)?)*",
+      "use_model": false,
+      "units": [
+        ""
+      ],
+      "table_pattern": "^Frequency: (?P<sample>\\d+) \\| .* \\| W/Al: \\d+\\s*\\.\\d+ \\((?P<value>\\d+\\.\\d+)\\)$"
+    }
+  ],
+  "figure_keywords": {
+    "process_curve": [
+      "cell potential-time responses",
+      "current waveforms",
+      "volume of gas evolution"
+    ],
+    "discharge": [
+      "discharging sparks",
+      "sequential real-time images"
+    ],
+    "appearance": [
+      "images for the appearance"
+    ],
+    "performance": [
+      "surface roughness",
+      "color coordinate"
+    ],
+    "mechanism": [
+      "schematic illustration"
+    ]
+  },
+  "outputs": {
+    "data": true,
+    "formats": [
+      "csv",
+      "json"
+    ],
+    "tables": true,
+    "figure_types": [
+      "all"
+    ]
+  }
+}

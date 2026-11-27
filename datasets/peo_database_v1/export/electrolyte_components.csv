@@ -1,0 +1,196 @@
+﻿doi,sample_key,compound,concentration_g_l
+10.3390/coatings10100937,Al,KOH,1.0
+10.3390/coatings10100937,Al,NaAlO2,10.0
+10.3390/coatings10100937,Al,NaF,8.0
+10.3390/coatings10100937,Ph,KOH,1.0
+10.3390/coatings10100937,Ph,Na3PO4,10.0
+10.3390/coatings10100937,Ph,NaF,8.0
+10.3390/coatings10100937,Si,KF,8.0
+10.3390/coatings10100937,Si,KOH,8.0
+10.3390/coatings10100937,Si,Na2SiO3_liquid_glass_37pct,6.0
+10.3390/coatings12091286,No. 1,EDTA_ZnNa2,6.0
+10.3390/coatings12091286,No. 1,H3PO4,15.0
+10.3390/coatings12091286,No. 1,HMTA,360.0
+10.3390/coatings12091286,No. 1,IP6,4.0
+10.3390/coatings12091286,No. 1,NH4HF2,3.0
+10.3390/coatings12091286,No. 2,EDTA_ZnNa2,10.0
+10.3390/coatings12091286,No. 2,H3PO4,25.0
+10.3390/coatings12091286,No. 2,HMTA,360.0
+10.3390/coatings12091286,No. 2,IP6,8.0
+10.3390/coatings12091286,No. 2,NH4HF2,3.0
+10.3390/coatings12091286,No. 2 solution @ 2.5 min,EDTA_ZnNa2,10.0
+10.3390/coatings12091286,No. 2 solution @ 2.5 min,H3PO4,25.0
+10.3390/coatings12091286,No. 2 solution @ 2.5 min,HMTA,360.0
+10.3390/coatings12091286,No. 2 solution @ 2.5 min,IP6,8.0
+10.3390/coatings12091286,No. 2 solution @ 2.5 min,NH4HF2,3.0
+10.3390/coatings12091286,No. 2 solution @ 3.5 min,EDTA_ZnNa2,10.0
+10.3390/coatings12091286,No. 2 solution @ 3.5 min,H3PO4,25.0
+10.3390/coatings12091286,No. 2 solution @ 3.5 min,HMTA,360.0
+10.3390/coatings12091286,No. 2 solution @ 3.5 min,IP6,8.0
+10.3390/coatings12091286,No. 2 solution @ 3.5 min,NH4HF2,3.0
+10.3390/coatings12091286,No. 2 solution @ 4.0 min,EDTA_ZnNa2,10.0
+10.3390/coatings12091286,No. 2 solution @ 4.0 min,H3PO4,25.0
+10.3390/coatings12091286,No. 2 solution @ 4.0 min,HMTA,360.0
+10.3390/coatings12091286,No. 2 solution @ 4.0 min,IP6,8.0
+10.3390/coatings12091286,No. 2 solution @ 4.0 min,NH4HF2,3.0
+10.3390/coatings12091286,No. 3,EDTA_ZnNa2,14.0
+10.3390/coatings12091286,No. 3,H3PO4,35.0
+10.3390/coatings12091286,No. 3,HMTA,360.0
+10.3390/coatings12091286,No. 3,IP6,12.0
+10.3390/coatings12091286,No. 3,NH4HF2,3.0
+10.3390/coatings12091286,No. 4,EDTA_ZnNa2,14.0
+10.3390/coatings12091286,No. 4,H3PO4,15.0
+10.3390/coatings12091286,No. 4,HMTA,360.0
+10.3390/coatings12091286,No. 4,IP6,8.0
+10.3390/coatings12091286,No. 4,NH4HF2,6.0
+10.3390/coatings12091286,No. 5,EDTA_ZnNa2,6.0
+10.3390/coatings12091286,No. 5,H3PO4,25.0
+10.3390/coatings12091286,No. 5,HMTA,360.0
+10.3390/coatings12091286,No. 5,IP6,12.0
+10.3390/coatings12091286,No. 5,NH4HF2,6.0
+10.3390/coatings12091286,No. 6,EDTA_ZnNa2,10.0
+10.3390/coatings12091286,No. 6,H3PO4,35.0
+10.3390/coatings12091286,No. 6,HMTA,360.0
+10.3390/coatings12091286,No. 6,IP6,4.0
+10.3390/coatings12091286,No. 6,NH4HF2,6.0
+10.3390/coatings12091286,No. 7,EDTA_ZnNa2,10.0
+10.3390/coatings12091286,No. 7,H3PO4,15.0
+10.3390/coatings12091286,No. 7,HMTA,360.0
+10.3390/coatings12091286,No. 7,IP6,12.0
+10.3390/coatings12091286,No. 7,NH4HF2,9.0
+10.3390/coatings12091286,No. 8,EDTA_ZnNa2,14.0
+10.3390/coatings12091286,No. 8,H3PO4,25.0
+10.3390/coatings12091286,No. 8,HMTA,360.0
+10.3390/coatings12091286,No. 8,IP6,4.0
+10.3390/coatings12091286,No. 8,NH4HF2,9.0
+10.3390/coatings12091286,No. 9,EDTA_ZnNa2,6.0
+10.3390/coatings12091286,No. 9,H3PO4,35.0
+10.3390/coatings12091286,No. 9,HMTA,360.0
+10.3390/coatings12091286,No. 9,IP6,8.0
+10.3390/coatings12091286,No. 9,NH4HF2,9.0
+10.3390/coatings15080961,A,Na2HPO4,1.0
+10.3390/coatings15080961,A,Na2SiO3,15.0
+10.3390/coatings15080961,A,NaOH,2.5
+10.3390/coatings15080961,B,Na2HPO4,1.0
+10.3390/coatings15080961,B,Na2SiO3,15.0
+10.3390/coatings15080961,B,NaOH,2.5
+10.3390/coatings15080961,C,Na2HPO4,1.0
+10.3390/coatings15080961,C,Na2SiO3,15.0
+10.3390/coatings15080961,C,NaOH,2.5
+10.3390/coatings15080961,D,Na2HPO4,1.0
+10.3390/coatings15080961,D,Na2SiO3,15.0
+10.3390/coatings15080961,D,NaOH,2.5
+10.3390/coatings15080961,E,Na2HPO4,1.0
+10.3390/coatings15080961,E,Na2SiO3,15.0
+10.3390/coatings15080961,E,NaOH,2.5
+10.3390/coatings15080961,F,Na2HPO4,1.0
+10.3390/coatings15080961,F,Na2SiO3,15.0
+10.3390/coatings15080961,F,NaOH,2.5
+10.3390/coatings15080961,G,Na2HPO4,1.0
+10.3390/coatings15080961,G,Na2SiO3,15.0
+10.3390/coatings15080961,G,NaOH,2.5
+10.3390/coatings15080961,H,Na2HPO4,1.0
+10.3390/coatings15080961,H,Na2SiO3,15.0
+10.3390/coatings15080961,H,NaOH,2.5
+10.3390/coatings15080961,I,Na2HPO4,1.0
+10.3390/coatings15080961,I,Na2SiO3,15.0
+10.3390/coatings15080961,I,NaOH,2.5
+10.3390/coatings9030197,No. 1,K2ZrF6,5.0
+10.3390/coatings9030197,No. 1,NH4HF2,4.0
+10.3390/coatings9030197,No. 1,Na12Phy,8.0
+10.3390/coatings9030197,No. 2,K2ZrF6,10.0
+10.3390/coatings9030197,No. 2,NH4HF2,4.0
+10.3390/coatings9030197,No. 2,Na12Phy,12.0
+10.3390/coatings9030197,No. 3,K2ZrF6,15.0
+10.3390/coatings9030197,No. 3,NH4HF2,4.0
+10.3390/coatings9030197,No. 3,Na12Phy,16.0
+10.3390/coatings9030197,No. 4,K2ZrF6,10.0
+10.3390/coatings9030197,No. 4,NH4HF2,6.0
+10.3390/coatings9030197,No. 4,Na12Phy,8.0
+10.3390/coatings9030197,No. 5,K2ZrF6,15.0
+10.3390/coatings9030197,No. 5,NH4HF2,6.0
+10.3390/coatings9030197,No. 5,Na12Phy,12.0
+10.3390/coatings9030197,No. 6,K2ZrF6,5.0
+10.3390/coatings9030197,No. 6,NH4HF2,6.0
+10.3390/coatings9030197,No. 6,Na12Phy,16.0
+10.3390/coatings9030197,No. 7,K2ZrF6,15.0
+10.3390/coatings9030197,No. 7,NH4HF2,8.0
+10.3390/coatings9030197,No. 7,Na12Phy,8.0
+10.3390/coatings9030197,No. 8,K2ZrF6,5.0
+10.3390/coatings9030197,No. 8,NH4HF2,8.0
+10.3390/coatings9030197,No. 8,Na12Phy,12.0
+10.3390/coatings9030197,No. 9,K2ZrF6,10.0
+10.3390/coatings9030197,No. 9,NH4HF2,8.0
+10.3390/coatings9030197,No. 9,Na12Phy,16.0
+10.3390/coatings9120826,C-0,(NaPO3)6,3.0
+10.3390/coatings9120826,C-0,KF,0.0
+10.3390/coatings9120826,C-0,NaOH,2.0
+10.3390/coatings9120826,C-10,(NaPO3)6,3.0
+10.3390/coatings9120826,C-10,KF,10.0
+10.3390/coatings9120826,C-10,NaOH,2.0
+10.3390/coatings9120826,C-15,(NaPO3)6,3.0
+10.3390/coatings9120826,C-15,KF,15.0
+10.3390/coatings9120826,C-15,NaOH,2.0
+10.3390/coatings9120826,C-5,(NaPO3)6,3.0
+10.3390/coatings9120826,C-5,KF,5.0
+10.3390/coatings9120826,C-5,NaOH,2.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.025 A/cm²,KOH,1.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.025 A/cm²,Na3PO4·12H2O,10.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.05 A/cm²,KOH,1.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.05 A/cm²,Na3PO4·12H2O,10.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.1 A/cm²,KOH,1.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.1 A/cm²,Na3PO4·12H2O,10.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.15 A/cm²,KOH,1.0
+10.3390/met10111521,10 g/L phosphate hydrate; 0.15 A/cm²,Na3PO4·12H2O,10.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.025 A/cm²,KOH,1.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.025 A/cm²,Na3PO4·12H2O,12.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.05 A/cm²,KOH,1.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.05 A/cm²,Na3PO4·12H2O,12.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.1 A/cm²,KOH,1.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.1 A/cm²,Na3PO4·12H2O,12.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.15 A/cm²,KOH,1.0
+10.3390/met10111521,12 g/L phosphate hydrate; 0.15 A/cm²,Na3PO4·12H2O,12.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.025 A/cm²,KOH,1.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.025 A/cm²,Na3PO4·12H2O,15.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.05 A/cm²,KOH,1.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.05 A/cm²,Na3PO4·12H2O,15.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.1 A/cm²,KOH,1.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.1 A/cm²,Na3PO4·12H2O,15.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.15 A/cm²,KOH,1.0
+10.3390/met10111521,15 g/L phosphate hydrate; 0.15 A/cm²,Na3PO4·12H2O,15.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.025 A/cm²,KOH,1.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.025 A/cm²,Na3PO4·12H2O,8.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.05 A/cm²,KOH,1.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.05 A/cm²,Na3PO4·12H2O,8.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.1 A/cm²,KOH,1.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.1 A/cm²,Na3PO4·12H2O,8.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.15 A/cm²,KOH,1.0
+10.3390/met10111521,8 g/L phosphate hydrate; 0.15 A/cm²,Na3PO4·12H2O,8.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz,C6H8O7·H2O,3.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz,KOH,2.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz,Na2WO4·2H2O,10.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz,NaAlO2,10.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz @ 180 s,C6H8O7·H2O,3.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz @ 180 s,KOH,2.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz @ 180 s,Na2WO4·2H2O,10.0
+10.48550/arxiv.1808.06587,Bipolar 100 Hz @ 180 s,NaAlO2,10.0
+10.48550/arxiv.1808.06587,Bipolar 1000 Hz,C6H8O7·H2O,3.0
+10.48550/arxiv.1808.06587,Bipolar 1000 Hz,KOH,2.0
+10.48550/arxiv.1808.06587,Bipolar 1000 Hz,Na2WO4·2H2O,10.0
+10.48550/arxiv.1808.06587,Bipolar 1000 Hz,NaAlO2,10.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz,C6H8O7·H2O,3.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz,KOH,2.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz,Na2WO4·2H2O,10.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz,NaAlO2,10.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz @ 180 s,C6H8O7·H2O,3.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz @ 180 s,KOH,2.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz @ 180 s,Na2WO4·2H2O,10.0
+10.48550/arxiv.1808.06587,Bipolar 2000 Hz @ 180 s,NaAlO2,10.0
+10.48550/arxiv.1808.06587,Unipolar 100 Hz,C6H8O7·H2O,3.0
+10.48550/arxiv.1808.06587,Unipolar 100 Hz,KOH,2.0
+10.48550/arxiv.1808.06587,Unipolar 100 Hz,Na2WO4·2H2O,10.0
+10.48550/arxiv.1808.06587,Unipolar 100 Hz,NaAlO2,10.0
+10.48550/arxiv.1808.06587,Unipolar 2000 Hz,C6H8O7·H2O,3.0
+10.48550/arxiv.1808.06587,Unipolar 2000 Hz,KOH,2.0
+10.48550/arxiv.1808.06587,Unipolar 2000 Hz,Na2WO4·2H2O,10.0
+10.48550/arxiv.1808.06587,Unipolar 2000 Hz,NaAlO2,10.0

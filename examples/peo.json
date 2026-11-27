@@ -1,0 +1,94 @@
+{
+  "topic": "AZ31 镁合金微弧氧化涂层的工艺、结构与耐蚀性能",
+  "queries": [
+    "AZ31 magnesium alloy plasma electrolytic oxidation corrosion coating thickness",
+    "AZ31 镁合金 微弧氧化 工艺 涂层 腐蚀"
+  ],
+  "providers": ["crossref", "openalex"],
+  "year_from": 2015,
+  "search_limit": 10,
+  "download_open_pdf": true,
+  "max_downloads": 4,
+  "max_pages": 35,
+  "local_pdfs": [],
+  "model": {"mode": "ollama", "name": "qwen3:4b", "max_regions_per_paper": 10},
+  "fields": [
+    {
+      "id": "substrate",
+      "label": "基体牌号",
+      "category": "成分",
+      "description": "作为本研究样品基体的合金牌号，区分 AZ31、AZ31B 和其他牌号",
+      "aliases": ["substrate", "AZ31", "AZ31B", "基体"]
+    },
+    {
+      "id": "alloy_composition",
+      "label": "合金元素含量",
+      "category": "成分",
+      "description": "报告的基体元素含量，保留元素名称、wt.% 或 at.% 以及样品标识",
+      "aliases": ["composition", "wt.%", "at.%", "化学成分", "质量分数"]
+    },
+    {
+      "id": "electrolyte_component",
+      "label": "电解液组分浓度",
+      "category": "工艺",
+      "description": "实际使用的电解液组分、浓度与单位，化学式与样品标识分别保留在证据中",
+      "aliases": ["electrolyte", "g/L", "mol/L", "电解液"]
+    },
+    {
+      "id": "current_density",
+      "label": "工艺电流密度",
+      "category": "工艺",
+      "description": "PEO 制备时的电流密度，保留峰值或平均值定义和电源模式，区分腐蚀电流密度",
+      "aliases": ["current density", "电流密度"]
+    },
+    {
+      "id": "treatment_time",
+      "label": "PEO 处理时间",
+      "category": "工艺",
+      "description": "PEO 制备时间，区分浸泡、干燥和后处理时间",
+      "aliases": ["treatment time", "oxidation time", "processing time", "处理时间", "氧化时间"]
+    },
+    {
+      "id": "coating_thickness",
+      "label": "膜厚",
+      "category": "结构",
+      "description": "已测得的膜厚或作者报告的膜厚统计量，记录测量方法和样品",
+      "aliases": ["coating thickness", "layer thickness", "膜厚", "涂层厚度"],
+      "pattern": "(?:coating thickness|膜厚|涂层厚度)\\s*(?:was|is|为|=|:|：)\\s*(?P<value>\\d+(?:\\.\\d+)?)\\s*(?P<unit>µm|μm|um|nm)"
+    },
+    {
+      "id": "porosity",
+      "label": "孔隙率",
+      "category": "结构",
+      "description": "表面孔隙面积分数或体积分数，保留测量类型及方法",
+      "aliases": ["porosity", "pore area", "孔隙率"]
+    },
+    {
+      "id": "corrosion_current_density",
+      "label": "腐蚀电流密度",
+      "category": "性能",
+      "description": "有面积归一单位的腐蚀电流密度，保留介质、样品、单位和拟合方法。区分仅以 A 或 μA 报告的腐蚀电流",
+      "aliases": ["corrosion current density", "icorr", "i_corr", "腐蚀电流密度"]
+    },
+    {
+      "id": "impedance",
+      "label": "电化学阻抗",
+      "category": "性能",
+      "description": "分别记录阻抗模量、极化电阻和传荷电阻的原始指标和单位。保留频率及浸泡时点",
+      "aliases": ["impedance", "polarization resistance", "charge transfer resistance", "阻抗", "极化电阻"]
+    }
+  ],
+  "figure_keywords": {
+    "electrochemistry": ["potentiodynamic", "polarization curves", "polarisation curves", "Nyquist", "Bode", "极化曲线", "阻抗谱"],
+    "phase_analysis": ["XRD", "diffraction pattern", "X射线衍射"]
+  },
+  "outputs": {
+    "data": true,
+    "formats": ["csv", "json"],
+    "categories": ["成分", "工艺", "结构", "性能"],
+    "tables": true,
+    "table_keywords": [],
+    "figure_types": ["microstructure", "performance", "electrochemistry"],
+    "figure_keywords": []
+  }
+}

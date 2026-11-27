@@ -1,0 +1,36 @@
+{
+  "topic": "合金设计中的原子模拟参数与力学性能图",
+  "queries": [],
+  "local_pdfs": [
+    "../../ghafarollahi-buehler-2025-automating-alloy-design-and-discovery-with-physics-aware-multimodal-multiagent-ai.pdf"
+  ],
+  "max_pages": 10,
+  "model": {
+    "mode": "rules"
+  },
+  "fields": [
+    {
+      "id": "free_surface_length",
+      "label": "沿自由表面的模拟尺寸",
+      "category": "工艺",
+      "description": "AtomAgents 文献中沿自由表面的模拟盒长度",
+      "aliases": [
+        "lattice size"
+      ],
+      "pattern": "lattice size of\\s+(?P<value>\\d+(?:\\.\\d+)?)\\s*(?P<unit>Å)\\s+along free surfaces"
+    }
+  ],
+  "outputs": {
+    "formats": [
+      "csv",
+      "json"
+    ],
+    "categories": [
+      "工艺"
+    ],
+    "tables": true,
+    "figure_types": [
+      "all"
+    ]
+  }
+}

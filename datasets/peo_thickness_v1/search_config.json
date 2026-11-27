@@ -1,0 +1,13 @@
+{
+  "topic": "镁合金等离子体电解氧化涂层",
+  "queries": [
+    "plasma electrolytic oxidation magnesium alloy coating AZ31 AZ91 AM50 WE43",
+    "micro arc oxidation magnesium alloy coating thickness AZ31 AZ91 ZK60",
+    "magnesium plasma electrolytic oxidation coating thickness current density electrolyte processing time",
+    "PEO coating magnesium alloy pulse parameters thickness corrosion microstructure"
+  ],
+  "search_limit": 45,
+  "providers": ["openalex", "crossref"],
+  "year_from": 2000,
+  "download_open_pdf": false
+}

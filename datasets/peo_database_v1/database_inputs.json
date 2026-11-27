@@ -1,0 +1,17 @@
+{
+  "catalog": "../peo_thickness_v1/literature_catalog.csv",
+  "reviewed_thickness": "../peo_thickness_v1/reviewed_observations.json",
+  "annotations": "reviewed_additions.json",
+  "runs": [
+    {
+      "path": "../../runs/run-0b3k0lqn",
+      "doi_aliases": {
+        "P001": "10.48550/arxiv.1808.06587"
+      },
+      "source_urls": {
+        "P001": "https://arxiv.org/pdf/1808.06587v1"
+      },
+      "rights": "Local research copy; arXiv article terms apply"
+    }
+  ]
+}

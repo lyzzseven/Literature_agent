@@ -1,0 +1,201 @@
+{
+  "target": "thickness_um",
+  "features": [
+    "substrate_grade",
+    "electrolyte_family",
+    "control_mode",
+    "pulse_mode",
+    "duration_s",
+    "frequency_hz",
+    "duty_pct",
+    "current_setpoint_a_cm2",
+    "current_peak_a_cm2",
+    "electrolyte_g_l:(NaPO3)6",
+    "electrolyte_g_l:C6H8O7·H2O",
+    "electrolyte_g_l:EDTA_ZnNa2",
+    "electrolyte_g_l:H3PO4",
+    "electrolyte_g_l:HMTA",
+    "electrolyte_g_l:IP6",
+    "electrolyte_g_l:K2ZrF6",
+    "electrolyte_g_l:KF",
+    "electrolyte_g_l:KOH",
+    "electrolyte_g_l:NH4HF2",
+    "electrolyte_g_l:Na12Phy",
+    "electrolyte_g_l:Na2HPO4",
+    "electrolyte_g_l:Na2SiO3",
+    "electrolyte_g_l:Na2SiO3_liquid_glass_37pct",
+    "electrolyte_g_l:Na2WO4·2H2O",
+    "electrolyte_g_l:Na3PO4",
+    "electrolyte_g_l:Na3PO4·12H2O",
+    "electrolyte_g_l:NaAlO2",
+    "electrolyte_g_l:NaF",
+    "electrolyte_g_l:NaOH"
+  ],
+  "group_column": "study_group",
+  "raw_rows": 56,
+  "clean_rows": 55,
+  "rows_by_study": {
+    "10.3390/coatings10100937": 3,
+    "10.3390/coatings12091286": 12,
+    "10.3390/coatings15080961": 9,
+    "10.3390/coatings9030197": 9,
+    "10.3390/coatings9120826": 4,
+    "10.3390/met10111521": 16,
+    "10.48550/arxiv.1808.06587": 2
+  },
+  "missing_by_feature": {
+    "substrate_grade": 0,
+    "electrolyte_family": 0,
+    "control_mode": 0,
+    "pulse_mode": 21,
+    "duration_s": 0,
+    "frequency_hz": 23,
+    "duty_pct": 23,
+    "current_setpoint_a_cm2": 18,
+    "current_peak_a_cm2": 46,
+    "current_unspecified_basis_a_cm2": 55,
+    "electrolyte_g_l:(NaPO3)6": 51,
+    "electrolyte_g_l:C6H8O7·H2O": 53,
+    "electrolyte_g_l:EDTA_ZnNa2": 43,
+    "electrolyte_g_l:H3PO4": 43,
+    "electrolyte_g_l:HMTA": 43,
+    "electrolyte_g_l:IP6": 43,
+    "electrolyte_g_l:K2ZrF6": 46,
+    "electrolyte_g_l:KF": 50,
+    "electrolyte_g_l:KOH": 34,
+    "electrolyte_g_l:NH4HF2": 34,
+    "electrolyte_g_l:Na12Phy": 46,
+    "electrolyte_g_l:Na2HPO4": 46,
+    "electrolyte_g_l:Na2SiO3": 46,
+    "electrolyte_g_l:Na2SiO3_liquid_glass_37pct": 54,
+    "electrolyte_g_l:Na2WO4·2H2O": 53,
+    "electrolyte_g_l:Na3PO4": 54,
+    "electrolyte_g_l:Na3PO4·12H2O": 39,
+    "electrolyte_g_l:NaAlO2": 52,
+    "electrolyte_g_l:NaF": 53,
+    "electrolyte_g_l:NaOH": 42
+  },
+  "features_all_missing": [
+    "current_unspecified_basis_a_cm2"
+  ],
+  "rejected": [
+    {
+      "doi": "10.3390/coatings12091286",
+      "sample_id": "No. 2",
+      "reason": "重复记录"
+    }
+  ],
+  "regression_smoke_test": {
+    "status": "ran",
+    "protocol": "leave_one_study_out",
+    "folds": [
+      {
+        "held_out_study": "10.3390/coatings10100937",
+        "train_rows": 52,
+        "test_rows": 3,
+        "train_groups": [
+          "10.3390/coatings12091286",
+          "10.3390/coatings15080961",
+          "10.3390/coatings9030197",
+          "10.3390/coatings9120826",
+          "10.3390/met10111521",
+          "10.48550/arxiv.1808.06587"
+        ],
+        "median_mae_um": 10.746666666666664,
+        "log_duration_linear_mae_um": 8.326185269652468
+      },
+      {
+        "held_out_study": "10.3390/coatings12091286",
+        "train_rows": 43,
+        "test_rows": 12,
+        "train_groups": [
+          "10.3390/coatings10100937",
+          "10.3390/coatings15080961",
+          "10.3390/coatings9030197",
+          "10.3390/coatings9120826",
+          "10.3390/met10111521",
+          "10.48550/arxiv.1808.06587"
+        ],
+        "median_mae_um": 3.228333333333333,
+        "log_duration_linear_mae_um": 4.320123619454969
+      },
+      {
+        "held_out_study": "10.3390/coatings15080961",
+        "train_rows": 46,
+        "test_rows": 9,
+        "train_groups": [
+          "10.3390/coatings10100937",
+          "10.3390/coatings12091286",
+          "10.3390/coatings9030197",
+          "10.3390/coatings9120826",
+          "10.3390/met10111521",
+          "10.48550/arxiv.1808.06587"
+        ],
+        "median_mae_um": 4.176111111111111,
+        "log_duration_linear_mae_um": 8.01002510260446
+      },
+      {
+        "held_out_study": "10.3390/coatings9030197",
+        "train_rows": 46,
+        "test_rows": 9,
+        "train_groups": [
+          "10.3390/coatings10100937",
+          "10.3390/coatings12091286",
+          "10.3390/coatings15080961",
+          "10.3390/coatings9120826",
+          "10.3390/met10111521",
+          "10.48550/arxiv.1808.06587"
+        ],
+        "median_mae_um": 6.015555555555555,
+        "log_duration_linear_mae_um": 4.639515291816688
+      },
+      {
+        "held_out_study": "10.3390/coatings9120826",
+        "train_rows": 51,
+        "test_rows": 4,
+        "train_groups": [
+          "10.3390/coatings10100937",
+          "10.3390/coatings12091286",
+          "10.3390/coatings15080961",
+          "10.3390/coatings9030197",
+          "10.3390/met10111521",
+          "10.48550/arxiv.1808.06587"
+        ],
+        "median_mae_um": 9.5275,
+        "log_duration_linear_mae_um": 9.5275
+      },
+      {
+        "held_out_study": "10.3390/met10111521",
+        "train_rows": 39,
+        "test_rows": 16,
+        "train_groups": [
+          "10.3390/coatings10100937",
+          "10.3390/coatings12091286",
+          "10.3390/coatings15080961",
+          "10.3390/coatings9030197",
+          "10.3390/coatings9120826",
+          "10.48550/arxiv.1808.06587"
+        ],
+        "median_mae_um": 2.9687499999999996,
+        "log_duration_linear_mae_um": 6.573798774944629
+      },
+      {
+        "held_out_study": "10.48550/arxiv.1808.06587",
+        "train_rows": 53,
+        "test_rows": 2,
+        "train_groups": [
+          "10.3390/coatings10100937",
+          "10.3390/coatings12091286",
+          "10.3390/coatings15080961",
+          "10.3390/coatings9030197",
+          "10.3390/coatings9120826",
+          "10.3390/met10111521"
+        ],
+        "median_mae_um": 49.47,
+        "log_duration_linear_mae_um": 47.43088367239719
+      }
+    ],
+    "macro_median_mae_um": 12.30470238095238,
+    "macro_log_duration_linear_mae_um": 12.689718818695772
+  }
+}

@@ -1,0 +1,13 @@
+﻿sample_key,metric,value,unit,spread,spread_kind,exposure_h,locator
+Al,cross_section_porosity,1.75,%,,,,Table 2 | Al | Porosity Percentage: Cross-Section
+Al,surface_porosity,7.03,%,1.15,reported_plus_minus_unspecified,,Table 2 | Al | surface_porosity
+Al,roughness_ra,0.84,µm,0.01,reported_plus_minus_unspecified,,Table 2 | Al | roughness_ra
+Al,roughness_rz,5.98,µm,0.20,reported_plus_minus_unspecified,,Table 2 | Al | roughness_rz
+Ph,cross_section_porosity,7.25,%,,,,Table 2 | Ph | Porosity Percentage: Cross-Section
+Ph,surface_porosity,3.87,%,0.49,reported_plus_minus_unspecified,,Table 2 | Ph | surface_porosity
+Ph,roughness_ra,1.92,µm,0.15,reported_plus_minus_unspecified,,Table 2 | Ph | roughness_ra
+Ph,roughness_rz,12.49,µm,0.33,reported_plus_minus_unspecified,,Table 2 | Ph | roughness_rz
+Si,cross_section_porosity,4.86,%,,,,Table 2 | Si | Porosity Percentage: Cross-Section
+Si,surface_porosity,14.07,%,2.19,reported_plus_minus_unspecified,,Table 2 | Si | surface_porosity
+Si,roughness_ra,1.10,µm,0.02,reported_plus_minus_unspecified,,Table 2 | Si | roughness_ra
+Si,roughness_rz,7.29,µm,0.23,reported_plus_minus_unspecified,,Table 2 | Si | roughness_rz

@@ -1,0 +1,8 @@
+﻿sample_key,metric,value,unit,spread,spread_kind,exposure_h,locator
+Al,wear_volume,3.1,10^-3 mm³,0.4,reported_plus_minus_unspecified,0.25,Table 5 | Al-15 min | Worn Volume
+Ph,wear_volume,7.5,10^-3 mm³,1.1,reported_plus_minus_unspecified,0.25,Table 5 | Ph-15 min | Worn Volume
+Si,wear_volume,63.4,10^-3 mm³,5.1,reported_plus_minus_unspecified,0.25,Table 5 | Si-15 min | Worn Volume
+Al,wear_volume,7.6,10^-3 mm³,0.8,reported_plus_minus_unspecified,0.5,Table 5 | Al-30 min | Worn Volume
+Ph,wear_volume,33.9,10^-3 mm³,2.9,reported_plus_minus_unspecified,0.5,Table 5 | Ph-30 min | Worn Volume
+Al,wear_volume,13.4,10^-3 mm³,2.4,reported_plus_minus_unspecified,1.0,Table 5 | Al-60 min | Worn Volume
+Ph,wear_volume,117.9,10^-3 mm³,12.6,reported_plus_minus_unspecified,1.0,Table 5 | Ph-60 min | Worn Volume

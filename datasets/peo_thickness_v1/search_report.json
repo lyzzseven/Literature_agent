@@ -1,0 +1,70 @@
+{
+  "candidate_count": 235,
+  "included_titles": 113,
+  "training_sources": 7,
+  "queries": [
+    "plasma electrolytic oxidation magnesium alloy coating AZ31 AZ91 AM50 WE43",
+    "micro arc oxidation magnesium alloy coating thickness AZ31 AZ91 ZK60",
+    "magnesium plasma electrolytic oxidation coating thickness current density electrolyte processing time",
+    "PEO coating magnesium alloy pulse parameters thickness corrosion microstructure"
+  ],
+  "search": {
+    "started_at": "2026-11-19T12:31:19.314225+00:00",
+    "mode": "search_only",
+    "requests": [
+      {
+        "provider": "openalex",
+        "query": "plasma electrolytic oxidation magnesium alloy coating AZ31 AZ91 AM50 WE43",
+        "status": "ok",
+        "hits": 45
+      },
+      {
+        "provider": "crossref",
+        "query": "plasma electrolytic oxidation magnesium alloy coating AZ31 AZ91 AM50 WE43",
+        "status": "error",
+        "error": "HTTP 429"
+      },
+      {
+        "provider": "openalex",
+        "query": "micro arc oxidation magnesium alloy coating thickness AZ31 AZ91 ZK60",
+        "status": "ok",
+        "hits": 45
+      },
+      {
+        "provider": "crossref",
+        "query": "micro arc oxidation magnesium alloy coating thickness AZ31 AZ91 ZK60",
+        "status": "ok",
+        "hits": 45
+      },
+      {
+        "provider": "openalex",
+        "query": "magnesium plasma electrolytic oxidation coating thickness current density electrolyte processing time",
+        "status": "ok",
+        "hits": 45
+      },
+      {
+        "provider": "crossref",
+        "query": "magnesium plasma electrolytic oxidation coating thickness current density electrolyte processing time",
+        "status": "ok",
+        "hits": 45
+      },
+      {
+        "provider": "openalex",
+        "query": "PEO coating magnesium alloy pulse parameters thickness corrosion microstructure",
+        "status": "ok",
+        "hits": 45
+      },
+      {
+        "provider": "crossref",
+        "query": "PEO coating magnesium alloy pulse parameters thickness corrosion microstructure",
+        "status": "error",
+        "error": "_ssl.c:993: The handshake operation timed out"
+      }
+    ]
+  },
+  "warnings": [
+    "crossref 检索失败（plasma electrolytic oxidation magnesium alloy coating AZ31 AZ91 AM50 WE43）：HTTP 429",
+    "crossref 检索失败（PEO coating magnesium alloy pulse parameters thickness corrosion microstructure）：_ssl.c:993: The handshake operation timed out"
+  ],
+  "scope": "Original Mg alloy coating studies with PEO/MAO or a PEO/MAO layer; excludes background reviews and non-Mg substrate titles."
+}

@@ -1,0 +1,9 @@
+﻿sample_key,metric,value,unit,spread,spread_kind,exposure_h,locator
+C-0,corrosion_current_density,1.397e-7,A/cm²,0.004e-7,SD,,Table 4 | C-0 | Icorr
+C-0,corrosion_potential_sce,-1.448,V vs SCE,0.014,SD,,Table 4 | C-0 | Ecorr
+C-5,corrosion_current_density,2.419e-8,A/cm²,0.317e-8,SD,,Table 4 | C-5 | Icorr
+C-5,corrosion_potential_sce,-1.445,V vs SCE,0.017,SD,,Table 4 | C-5 | Ecorr
+C-10,corrosion_current_density,3.151e-8,A/cm²,0.071e-8,SD,,Table 4 | C-10 | Icorr
+C-10,corrosion_potential_sce,-1.393,V vs SCE,0.006,SD,,Table 4 | C-10 | Ecorr
+C-15,corrosion_current_density,8.677e-9,A/cm²,0.023e-9,SD,,Table 4 | C-15 | Icorr
+C-15,corrosion_potential_sce,-1.375,V vs SCE,0.005,SD,,Table 4 | C-15 | Ecorr

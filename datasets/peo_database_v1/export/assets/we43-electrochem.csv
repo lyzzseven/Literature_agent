@@ -1,0 +1,19 @@
+﻿sample_key,metric,value,unit,spread,spread_kind,exposure_h,locator
+No. 1,corrosion_current_density,1.12e-7,A/cm²,,,,Table 2 | No. 1 | icorr
+No. 1,corrosion_potential_sce,-1.64,V vs SCE,,,,Table 2 | No. 1 | Ecorr
+No. 2,corrosion_current_density,3.26e-8,A/cm²,,,,Table 2 | No. 2 | icorr
+No. 2,corrosion_potential_sce,-1.56,V vs SCE,,,,Table 2 | No. 2 | Ecorr
+No. 3,corrosion_current_density,7.01e-8,A/cm²,,,,Table 2 | No. 3 | icorr
+No. 3,corrosion_potential_sce,-1.57,V vs SCE,,,,Table 2 | No. 3 | Ecorr
+No. 4,corrosion_current_density,1.09e-7,A/cm²,,,,Table 2 | No. 4 | icorr
+No. 4,corrosion_potential_sce,-1.56,V vs SCE,,,,Table 2 | No. 4 | Ecorr
+No. 5,corrosion_current_density,8.56e-8,A/cm²,,,,Table 2 | No. 5 | icorr
+No. 5,corrosion_potential_sce,-1.85,V vs SCE,,,,Table 2 | No. 5 | Ecorr
+No. 6,corrosion_current_density,7.39e-8,A/cm²,,,,Table 2 | No. 6 | icorr
+No. 6,corrosion_potential_sce,-1.85,V vs SCE,,,,Table 2 | No. 6 | Ecorr
+No. 7,corrosion_current_density,1.09e-8,A/cm²,,,,Table 2 | No. 7 | icorr
+No. 7,corrosion_potential_sce,-1.65,V vs SCE,,,,Table 2 | No. 7 | Ecorr
+No. 8,corrosion_current_density,6.18e-8,A/cm²,,,,Table 2 | No. 8 | icorr
+No. 8,corrosion_potential_sce,-1.73,V vs SCE,,,,Table 2 | No. 8 | Ecorr
+No. 9,corrosion_current_density,8.06e-8,A/cm²,,,,Table 2 | No. 9 | icorr
+No. 9,corrosion_potential_sce,-1.89,V vs SCE,,,,Table 2 | No. 9 | Ecorr

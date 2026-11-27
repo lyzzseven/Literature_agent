@@ -1,0 +1,31 @@
+{
+  "papers": 113,
+  "samples": 60,
+  "observations": 251,
+  "assets": 31,
+  "sample_assets": 91,
+  "auto_candidates": 23,
+  "asset_kinds": {
+    "figure": 24,
+    "table": 7
+  },
+  "reviewed_metrics": {
+    "corrosion_current_density": 13,
+    "corrosion_potential_sce": 13,
+    "cross_section_porosity": 3,
+    "morphology": 7,
+    "polarization_resistance": 144,
+    "roughness_ra": 3,
+    "roughness_rz": 3,
+    "surface_porosity": 3,
+    "thickness": 55,
+    "wear_volume": 7
+  },
+  "rejected_thickness": [
+    {
+      "doi": "10.3390/coatings12091286",
+      "sample_id": "No. 2",
+      "reason": "重复记录"
+    }
+  ]
+}

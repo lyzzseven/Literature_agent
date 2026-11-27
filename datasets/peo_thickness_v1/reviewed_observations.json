@@ -1,0 +1,1813 @@
+{
+  "studies": [
+    {
+      "doi": "10.3390/met10111521",
+      "source_url": "https://www.mdpi.com/2075-4701/10/11/1521",
+      "defaults": {
+        "substrate_grade": "AZ31",
+        "electrolyte_family": "phosphate",
+        "measurement_method": "cross_section_sem",
+        "control_mode": "constant_current",
+        "pulse_mode": "dc",
+        "duration": {
+          "value": 10,
+          "unit": "min"
+        }
+      },
+      "samples": [
+        {
+          "sample_id": "8 g/L phosphate hydrate; 0.025 A/cm²",
+          "thickness": {
+            "value": "7.64",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | 0.025 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 3 | 8 g/L phosphate hydrate; 0.025 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.025",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "8 g/L phosphate hydrate; 0.05 A/cm²",
+          "thickness": {
+            "value": "13.16",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | 0.05 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 3 | 8 g/L phosphate hydrate; 0.05 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.05",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "8 g/L phosphate hydrate; 0.1 A/cm²",
+          "thickness": {
+            "value": "14.32",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | 0.1 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 3 | 8 g/L phosphate hydrate; 0.1 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.1",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "8 g/L phosphate hydrate; 0.15 A/cm²",
+          "thickness": {
+            "value": "18.22",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | 0.15 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 3 | 8 g/L phosphate hydrate; 0.15 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.15",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "10 g/L phosphate hydrate; 0.025 A/cm²",
+          "thickness": {
+            "value": "7.81",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 4 | 0.025 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 4 | 10 g/L phosphate hydrate; 0.025 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.025",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "10 g/L phosphate hydrate; 0.05 A/cm²",
+          "thickness": {
+            "value": "10.56",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 4 | 0.05 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 4 | 10 g/L phosphate hydrate; 0.05 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.05",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "10 g/L phosphate hydrate; 0.1 A/cm²",
+          "thickness": {
+            "value": "10.68",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 4 | 0.1 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 4 | 10 g/L phosphate hydrate; 0.1 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.1",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "10 g/L phosphate hydrate; 0.15 A/cm²",
+          "thickness": {
+            "value": "14.85",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 4 | 0.15 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 4 | 10 g/L phosphate hydrate; 0.15 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.15",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "12 g/L phosphate hydrate; 0.025 A/cm²",
+          "thickness": {
+            "value": "7.29",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 5 | 0.025 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 5 | 12 g/L phosphate hydrate; 0.025 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.025",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "12 g/L phosphate hydrate; 0.05 A/cm²",
+          "thickness": {
+            "value": "8.99",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 5 | 0.05 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 5 | 12 g/L phosphate hydrate; 0.05 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.05",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "12 g/L phosphate hydrate; 0.1 A/cm²",
+          "thickness": {
+            "value": "10.74",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 5 | 0.1 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 5 | 12 g/L phosphate hydrate; 0.1 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.1",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "12 g/L phosphate hydrate; 0.15 A/cm²",
+          "thickness": {
+            "value": "13.85",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 5 | 0.15 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 5 | 12 g/L phosphate hydrate; 0.15 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.15",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "15 g/L phosphate hydrate; 0.025 A/cm²",
+          "thickness": {
+            "value": "6.92",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 6 | 0.025 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 6 | 15 g/L phosphate hydrate; 0.025 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.025",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 15,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "15 g/L phosphate hydrate; 0.05 A/cm²",
+          "thickness": {
+            "value": "8.35",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 6 | 0.05 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 6 | 15 g/L phosphate hydrate; 0.05 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.05",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 15,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "15 g/L phosphate hydrate; 0.1 A/cm²",
+          "thickness": {
+            "value": "8.65",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 6 | 0.1 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 6 | 15 g/L phosphate hydrate; 0.1 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.1",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 15,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "15 g/L phosphate hydrate; 0.15 A/cm²",
+          "thickness": {
+            "value": "9.41",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 6 | 0.15 A/cm² | Thickness [µm]",
+          "process_locator": "§2.1 | 10 min | Table 6 | 15 g/L phosphate hydrate; 0.15 A/cm²",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": "0.15",
+            "unit": "A/cm²",
+            "basis": "setpoint"
+          },
+          "electrolyte_components": {
+            "Na3PO4·12H2O": {
+              "value": 15,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/coatings9030197",
+      "source_url": "https://pdfs.semanticscholar.org/40bb/a322b73f51a0c2b594a03794b35bc06ebea1.pdf",
+      "defaults": {
+        "substrate_grade": "AZ31B",
+        "electrolyte_family": "phytate_fluoride_zirconate",
+        "measurement_method": "cross_section_sem",
+        "control_mode": "constant_current",
+        "pulse_mode": "unipolar",
+        "frequency": {
+          "value": 2000,
+          "unit": "Hz"
+        },
+        "duty_factor": {
+          "value": 35,
+          "unit": "%"
+        },
+        "current_density": {
+          "value": 50,
+          "unit": "mA/cm²",
+          "basis": "setpoint"
+        }
+      },
+      "samples": [
+        {
+          "sample_id": "No. 1",
+          "thickness": {
+            "value": "8.5",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 1 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 1",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 2.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 4,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 5,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 2",
+          "thickness": {
+            "value": "19.3",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 2 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 2",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 3,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 4,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 10,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 3",
+          "thickness": {
+            "value": "23.5",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 3 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 3",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 3.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 4,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 16,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 15,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 4",
+          "thickness": {
+            "value": "10.5",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 4 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 4",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 3.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 10,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 5",
+          "thickness": {
+            "value": "17.1",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 5 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 5",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 2.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 15,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 6",
+          "thickness": {
+            "value": "18.3",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 6 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 6",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 3,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 16,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 5,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 7",
+          "thickness": {
+            "value": "16.0",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 7 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 7",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 3,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 15,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 8",
+          "thickness": {
+            "value": "20.3",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 8 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 8",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 3.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 5,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 9",
+          "thickness": {
+            "value": "9.5",
+            "unit": "µm"
+          },
+          "thickness_locator": "Table 3 | No. 9 | Thickness (µm)",
+          "process_locator": "§2.1 and Tables 1, 3 | No. 9",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "duration": {
+            "value": 2.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "Na12Phy": {
+              "value": 16,
+              "unit": "g/L"
+            },
+            "K2ZrF6": {
+              "value": 10,
+              "unit": "g/L"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/coatings12091286",
+      "source_url": "https://www.mdpi.com/2079-6412/12/9/1286",
+      "defaults": {
+        "substrate_grade": "WE43",
+        "electrolyte_family": "near_neutral_phosphate_phytate",
+        "measurement_method": "cross_section_sem",
+        "control_mode": "constant_current",
+        "frequency": {
+          "value": 2000,
+          "unit": "Hz"
+        },
+        "duty_factor": {
+          "value": 35,
+          "unit": "%"
+        },
+        "duration": {
+          "value": 3,
+          "unit": "min"
+        },
+        "current_density": {
+          "value": 60,
+          "unit": "mA/cm²",
+          "basis": "setpoint"
+        }
+      },
+      "samples": [
+        {
+          "sample_id": "No. 1",
+          "thickness": {
+            "value": "12.89",
+            "unit": "µm",
+            "spread": ".63",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 1 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 1",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 15,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 4,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 2",
+          "thickness": {
+            "value": "16.06",
+            "unit": "µm",
+            "spread": "1.31",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 2 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 2",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 25,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 3",
+          "thickness": {
+            "value": "20.31",
+            "unit": "µm",
+            "spread": "1.60",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 3 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 3",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 35,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 14,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 4",
+          "thickness": {
+            "value": "11.30",
+            "unit": "µm",
+            "spread": ".78",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 4 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 4",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 15,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 14,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 5",
+          "thickness": {
+            "value": "15.26",
+            "unit": "µm",
+            "spread": ".82",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 5 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 5",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 25,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 6",
+          "thickness": {
+            "value": "10.41",
+            "unit": "µm",
+            "spread": ".69",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 6 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 6",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 35,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 4,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 7",
+          "thickness": {
+            "value": "8.92",
+            "unit": "µm",
+            "spread": ".10",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 7 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 7",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 9,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 15,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 12,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 8",
+          "thickness": {
+            "value": "10.49",
+            "unit": "µm",
+            "spread": ".46",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 8 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 8",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 9,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 25,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 4,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 14,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 9",
+          "thickness": {
+            "value": "11.69",
+            "unit": "µm",
+            "spread": ".70",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.1.2 | No. 9 | Fig. 3 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 9",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 9,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 35,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 2 solution @ 2.5 min",
+          "thickness": {
+            "value": "11.02",
+            "unit": "µm",
+            "spread": ".78",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.3 | 2.5 min | Fig. 8 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 2 solution; §3.3 | 2.5 min",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "duration": {
+            "value": 2.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 25,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 2",
+          "thickness": {
+            "value": "16.06",
+            "unit": "µm",
+            "spread": "1.31",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.3 | 3.0 min | Fig. 8 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 2 solution; §3.3 | 3.0 min",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "duration": {
+            "value": 3.0,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 25,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 2 solution @ 3.5 min",
+          "thickness": {
+            "value": "16.45",
+            "unit": "µm",
+            "spread": ".45",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.3 | 3.5 min | Fig. 8 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 2 solution; §3.3 | 3.5 min",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "duration": {
+            "value": 3.5,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 25,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "No. 2 solution @ 4.0 min",
+          "thickness": {
+            "value": "16.58",
+            "unit": "µm",
+            "spread": ".61",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "§3.3 | 4.0 min | Fig. 8 cross-section results",
+          "process_locator": "§2.1 and Table 1 | No. 2 solution; §3.3 | 4.0 min",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "duration": {
+            "value": 4.0,
+            "unit": "min"
+          },
+          "electrolyte_components": {
+            "NH4HF2": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "H3PO4": {
+              "value": 25,
+              "unit": "g/L"
+            },
+            "IP6": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "EDTA_ZnNa2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "HMTA": {
+              "value": 360,
+              "unit": "g/L"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/coatings15080961",
+      "source_url": "https://www.mdpi.com/2079-6412/15/8/961",
+      "defaults": {
+        "substrate_grade": "LA141",
+        "electrolyte_family": "silicate_phosphate",
+        "measurement_method": "eddy_current",
+        "control_mode": "voltage_program",
+        "duration": {
+          "value": 12,
+          "unit": "min"
+        },
+        "duty_factor": {
+          "value": 30,
+          "unit": "%"
+        },
+        "electrolyte_components": {
+          "Na2SiO3": {
+            "value": 15,
+            "unit": "g/L"
+          },
+          "NaOH": {
+            "value": 2.5,
+            "unit": "g/L"
+          },
+          "Na2HPO4": {
+            "value": 1,
+            "unit": "g/L"
+          }
+        }
+      },
+      "samples": [
+        {
+          "sample_id": "A",
+          "thickness": {
+            "value": "10.22",
+            "unit": "µm",
+            "spread": ".74",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | A | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | A",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 10,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 1000,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "B",
+          "thickness": {
+            "value": "9.92",
+            "unit": "µm",
+            "spread": ".86",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | B | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | B",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 14,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 1000,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "C",
+          "thickness": {
+            "value": "8.40",
+            "unit": "µm",
+            "spread": ".76",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | C | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | C",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 10,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 2000,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "D",
+          "thickness": {
+            "value": "8.51",
+            "unit": "µm",
+            "spread": ".74",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | D | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | D",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 14,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 2000,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "E",
+          "thickness": {
+            "value": "8.91",
+            "unit": "µm",
+            "spread": ".62",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | E | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | E",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 10,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 1500,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "F",
+          "thickness": {
+            "value": "8.62",
+            "unit": "µm",
+            "spread": ".81",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | F | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | F",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 14,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 1500,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "G",
+          "thickness": {
+            "value": "8.31",
+            "unit": "µm",
+            "spread": ".59",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | G | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | G",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 12,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 1000,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "H",
+          "thickness": {
+            "value": "8.17",
+            "unit": "µm",
+            "spread": ".81",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | H | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | H",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 12,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 2000,
+            "unit": "Hz"
+          }
+        },
+        {
+          "sample_id": "I",
+          "thickness": {
+            "value": "8.58",
+            "unit": "µm",
+            "spread": ".68",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 3 | I | d [µm] and standard deviation",
+          "process_locator": "§2.1 and Table 1 | I",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "current_density": {
+            "value": 12,
+            "unit": "A/dm²",
+            "basis": "peak"
+          },
+          "frequency": {
+            "value": 1500,
+            "unit": "Hz"
+          }
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/coatings9120826",
+      "source_url": "https://www.mdpi.com/2079-6412/9/12/826",
+      "defaults": {
+        "substrate_grade": "AZ31",
+        "electrolyte_family": "polyphosphate_fluoride",
+        "measurement_method": "eddy_current",
+        "control_mode": "constant_current",
+        "pulse_mode": "bipolar",
+        "duration": {
+          "value": 10,
+          "unit": "min"
+        }
+      },
+      "samples": [
+        {
+          "sample_id": "C-0",
+          "thickness": {
+            "value": "5.84",
+            "unit": "µm",
+            "spread": "2.37",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 2 | C-0 column | Thickness (µm) mean ± SD",
+          "process_locator": "§2.2 and Table 1 | C-0; positive/negative frequencies +1000/-120 Hz retained in source",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "electrolyte_components": {
+            "(NaPO3)6": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "NaOH": {
+              "value": 2,
+              "unit": "g/L"
+            },
+            "KF": {
+              "value": 0,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "C-5",
+          "thickness": {
+            "value": "9.49",
+            "unit": "µm",
+            "spread": "1.96",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 2 | C-5 column | Thickness (µm) mean ± SD",
+          "process_locator": "§2.2 and Table 1 | C-5; positive/negative frequencies +1000/-120 Hz retained in source",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "electrolyte_components": {
+            "(NaPO3)6": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "NaOH": {
+              "value": 2,
+              "unit": "g/L"
+            },
+            "KF": {
+              "value": 5,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "C-10",
+          "thickness": {
+            "value": "25.61",
+            "unit": "µm",
+            "spread": "3.26",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 2 | C-10 column | Thickness (µm) mean ± SD",
+          "process_locator": "§2.2 and Table 1 | C-10; positive/negative frequencies +1000/-120 Hz retained in source",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "electrolyte_components": {
+            "(NaPO3)6": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "NaOH": {
+              "value": 2,
+              "unit": "g/L"
+            },
+            "KF": {
+              "value": 10,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "C-15",
+          "thickness": {
+            "value": "27.83",
+            "unit": "µm",
+            "spread": "3.51",
+            "spread_kind": "SD"
+          },
+          "thickness_locator": "Table 2 | C-15 column | Thickness (µm) mean ± SD",
+          "process_locator": "§2.2 and Table 1 | C-15; positive/negative frequencies +1000/-120 Hz retained in source",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "electrolyte_components": {
+            "(NaPO3)6": {
+              "value": 3,
+              "unit": "g/L"
+            },
+            "NaOH": {
+              "value": 2,
+              "unit": "g/L"
+            },
+            "KF": {
+              "value": 15,
+              "unit": "g/L"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/coatings10100937",
+      "source_url": "https://www.mdpi.com/2079-6412/10/10/937",
+      "defaults": {
+        "substrate_grade": "AZ31",
+        "electrolyte_family": "unspecified",
+        "measurement_method": "eddy_current",
+        "control_mode": "voltage_program",
+        "pulse_mode": "bipolar_soft_sparking",
+        "duration": {
+          "value": 15,
+          "unit": "min"
+        }
+      },
+      "samples": [
+        {
+          "sample_id": "Al",
+          "thickness": {
+            "value": "16.50",
+            "unit": "µm",
+            "spread": "1.10",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "Table 2 | Al | Measured by Eddy Current (µm)",
+          "process_locator": "§2.1 and Table 1 | Al; 1→2 kHz stages recorded in source",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "electrolyte_family": "aluminate_fluoride",
+          "electrolyte_components": {
+            "NaAlO2": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "NaF": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "Ph",
+          "thickness": {
+            "value": "30.90",
+            "unit": "µm",
+            "spread": "3.90",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "Table 2 | Ph | Measured by Eddy Current (µm)",
+          "process_locator": "§2.1 and Table 1 | Ph; 1→2 kHz stages recorded in source",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "electrolyte_family": "phosphate_fluoride",
+          "electrolyte_components": {
+            "Na3PO4": {
+              "value": 10,
+              "unit": "g/L"
+            },
+            "NaF": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 1,
+              "unit": "g/L"
+            }
+          }
+        },
+        {
+          "sample_id": "Si",
+          "thickness": {
+            "value": "16.70",
+            "unit": "µm",
+            "spread": "1.90",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "Table 2 | Si | Measured by Eddy Current (µm)",
+          "process_locator": "§2.1 and Table 1 | Si; 1→2 kHz stages recorded in source",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_table",
+          "electrolyte_family": "silicate_fluoride",
+          "electrolyte_components": {
+            "Na2SiO3_liquid_glass_37pct": {
+              "value": 6,
+              "unit": "g/L"
+            },
+            "KF": {
+              "value": 8,
+              "unit": "g/L"
+            },
+            "KOH": {
+              "value": 8,
+              "unit": "g/L"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "doi": "10.48550/arxiv.1808.06587",
+      "source_url": "https://arxiv.org/pdf/1808.06587v1",
+      "defaults": {
+        "substrate_grade": "AZ31",
+        "electrolyte_family": "aluminate_tungstate",
+        "measurement_method": "eddy_current",
+        "control_mode": "constant_current",
+        "pulse_mode": "bipolar",
+        "duration": {
+          "value": 480,
+          "unit": "s"
+        },
+        "duty_factor": {
+          "value": 20,
+          "unit": "%"
+        },
+        "electrolyte_components": {
+          "NaAlO2": {
+            "value": 10,
+            "unit": "g/L"
+          },
+          "Na2WO4·2H2O": {
+            "value": 10,
+            "unit": "g/L"
+          },
+          "C6H8O7·H2O": {
+            "value": 3,
+            "unit": "g/L"
+          },
+          "KOH": {
+            "value": 2,
+            "unit": "g/L"
+          }
+        }
+      },
+      "samples": [
+        {
+          "sample_id": "Bipolar 2000 Hz",
+          "thickness": {
+            "value": "67.4",
+            "unit": "µm",
+            "spread": "4.2",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "PDF p. 10 | §3.2 | Fig. 5 discussed in text",
+          "process_locator": "PDF p. 5 §2 and p. 10 §3.2 | bipolar 480 s",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "frequency": {
+            "value": 2000,
+            "unit": "Hz"
+          },
+          "agent_record": "runs/run-0b3k0lqn/data.json"
+        },
+        {
+          "sample_id": "Bipolar 100 Hz",
+          "thickness": {
+            "value": "52.9",
+            "unit": "µm",
+            "spread": "3.1",
+            "spread_kind": "reported_plus_minus_unspecified"
+          },
+          "thickness_locator": "PDF p. 10 | §3.2 | Fig. 5 discussed in text",
+          "process_locator": "PDF p. 5 §2 and p. 10 §3.2 | bipolar 480 s",
+          "reviewed": true,
+          "coating_scope": "as_prepared_peo",
+          "target_origin": "reported_text",
+          "frequency": {
+            "value": 100,
+            "unit": "Hz"
+          },
+          "agent_record": "runs/run-0b3k0lqn/data.json"
+        }
+      ]
+    }
+  ]
+}
